@@ -8,7 +8,6 @@ Calculator scripts for school
 
 # Downloading
 *You must download TI Connect CE(I'm not sure if these scripts will run on TI-84 Plus)
-just on TI-84 Plus CE
 
 1. Plug in your calculator to your computer with your charger cord
 2. Click on the File or Folder you would like to download
